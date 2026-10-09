@@ -43,3 +43,20 @@ Learning the basics of string formatting and structured layouts.
 
 * **Topics Covered:** Decision-making using `if`, `elif`, and `else` statements.
 * **Files Included:** 5 practice files (`1.py` through `5.py`) focusing on conditional logic.
+
+---
+
+## 🔹 Day 5: String Operations & Methods
+*Progress: 5 Lectures Complete! ✅*
+
+Mastered comprehensive string manipulation techniques across 7 practice files.
+
+* **String Basics:** Slicing (`[0:3]`), Step Reversing (`[::-1]`), Length (`len()`), and F-Strings.
+* **Case Methods:** `.upper()`, `.lower()`, `.capitalize()`, `.title()`, and `.swapcase()`.
+* **Data Cleaning:** `.strip()`, `.replace()` (removing spacing/characters), and Immutability (`del`).
+* **Lists & Arrays:** Splitting strings into lists (`.split()`), merging data (`.join()`), and sorting (`sorted()`).
+
+---
+
+
+
