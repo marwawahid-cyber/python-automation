@@ -58,5 +58,16 @@ Mastered comprehensive string manipulation techniques across 7 practice files.
 
 ---
 
+## 🔹 Day 6: Python Lists & Sequences
+*Progress: 6 Lectures Complete! ✅*
+
+Mastered the fundamentals of list data structures and sequence manipulation.
+
+* **Slicing & Indexing:** Advanced slicing (`[::2]`, `[::-1]`) and accessing multidimensional nested lists.
+* **Modifying Data:** Adding elements (`.append()`, `.extend()`), and deleting data (`.remove()`, `.pop()`, `.clear()`, `del`).
+* **Built-in Functions:** Math utilities (`min()`, `max()`, `sum()`), removing duplicates using `set()`, and sequence generation using `range()`.
+* **Memory & Sorting:** Duplicating values using `.copy()`, inspecting memory allocations (`id()`), and array sorting (`.sort()`).
+---
+
 
 
