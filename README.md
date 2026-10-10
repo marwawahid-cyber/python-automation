@@ -69,5 +69,14 @@ Mastered the fundamentals of list data structures and sequence manipulation.
 * **Memory & Sorting:** Duplicating values using `.copy()`, inspecting memory allocations (`id()`), and array sorting (`.sort()`).
 ---
 
+🔹 Day 7: Python Tuples & Data Structures
+*Progress: 7 Lectures Complete!* ✅
+
+Mastered tuple data structures, immutability, and sequence manipulation.
+
+* **Creation & Immutability:** Single-element syntax `(1,)`, type checks, and handling item assignment errors vs. modifying nested lists.
+* **Slicing & Indexing:** Positive/negative indexing, advanced slicing (`[1:4]`, `[::-1]`), and multidimensional nested tuple access.
+* **Built-in Functions & Methods:** Using `len()`, `min()`, `max()`, `sum()`, `.count()`, and `.index()`.
+* **Operations & Deletion:** Tuple concatenation (`+`), repetition (`*`), and complete deletion using `del`.
 
 
