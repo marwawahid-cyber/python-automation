@@ -78,5 +78,15 @@ Mastered tuple data structures, immutability, and sequence manipulation.
 * **Slicing & Indexing:** Positive/negative indexing, advanced slicing (`[1:4]`, `[::-1]`), and multidimensional nested tuple access.
 * **Built-in Functions & Methods:** Using `len()`, `min()`, `max()`, `sum()`, `.count()`, and `.index()`.
 * **Operations & Deletion:** Tuple concatenation (`+`), repetition (`*`), and complete deletion using `del`.
+---
 
+🔹 Day 8: Python Dictionaries & Data Structures
+*Progress: 8 Lectures Complete!* ✅
 
+Mastered dictionary data structures, key-value mappings, and nested data management.
+
+* **Access & Methods:** Key lookups, safe retrieval via `.get()`, `.keys()`, `.values()`, `.items()`, and `.setdefault()`.
+* **Modification & Deletion:** Updating values, removing items using `.pop()`, `.popitem()`, `del`, and `.clear()`.
+* **Conversions & Utilities:** Creating dictionaries using `zip()`, `dict.fromkeys()`, and sorting keys with `sorted()`.
+* **Nesting:** Managing multi-level nested dictionaries and dictionaries containing lists.
+---
